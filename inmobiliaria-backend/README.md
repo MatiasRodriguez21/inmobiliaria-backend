@@ -8,7 +8,7 @@
 
 ## Descripción
 
-API REST desarrollada con **FastAPI** para la gestión de bienes raíces, que permite administrar usuarios, propiedades y reservas de manera eficiente y segura.
+API REST desarrollada con **FastAPI** para la gestión de inmboliaria, que permite administrar usuarios, propiedades y reservas de manera eficiente y segura.
 
 Cuenta con autenticación basada en JWT y utiliza **SQLite** como base de datos ligera para facilitar el desarrollo y despliegue.
 
