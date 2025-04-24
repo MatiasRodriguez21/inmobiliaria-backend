@@ -113,3 +113,6 @@ Para dudas o sugerencias, puedes contactarme.
 ---
 
 > Proyecto de ejemplo para aprender a crear APIs REST modernas y seguras con FastAPI y SQLite.
+
+
+Rodriguez Matias
