@@ -1,0 +1,10 @@
+# Ignorar archivo de base de datos SQLite
+inmobiliaria.db
+
+# Ignorar archivos pycache
+__pycache__/
+*.pyc
+
+# Ignorar entorno virtual
+venv/
+.env
