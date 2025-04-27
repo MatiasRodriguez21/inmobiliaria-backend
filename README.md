@@ -100,12 +100,6 @@ uvicorn main:app --reload
 
 ---
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
----
-
 ## Contacto
 
 Para dudas o sugerencias, puedes contactarme a través de mi correo electrónico: [mati.rodriguez1201@gmail.com].
