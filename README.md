@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-v0.95.0-green)](https://fastapi.tiangolo.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
 ---
 
@@ -108,11 +108,8 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Contacto
 
-Para dudas o sugerencias, puedes contactarme.
+Para dudas o sugerencias, puedes contactarme a través de mi correo electrónico: [mati.rodriguez1201@gmail.com].
 
 ---
 
-> Proyecto de ejemplo para aprender a crear APIs REST modernas y seguras con FastAPI y SQLite.
-
-
-Rodriguez Matias
+> Proyecto desarrollado por **Matías Rodríguez**.
